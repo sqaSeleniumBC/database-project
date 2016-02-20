@@ -1,9 +1,11 @@
-# Basic Automation Project
+# Database Automation Automation Project
 
- Basic Java Selenium Automation Project
- * QA
- * Java
- * Maven
+
+Database Automation Project
+* JDBC
+* QA
+* Java
+* Maven
   
  
 
